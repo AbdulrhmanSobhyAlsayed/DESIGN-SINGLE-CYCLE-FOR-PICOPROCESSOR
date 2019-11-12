@@ -9,5 +9,8 @@ for small embedded applications, but has an instruction set architecture more si
 
 **For more details about pP** 
 <a href="pP-ISA.pdf">Click here </a><br>
-**To see my design details**
-<a href="Single-cyclePicoProcessor.pdf">Click here </a> 
+**For my design details**
+<a href="Single-cyclePicoProcessor.pdf">Click here </a> <br>
+**For the pipeline design of pP **
+<a href="https://github.com/AbdulrhmanSobhyAlsayed/DESIGN-PIPELINE-PICOPROCESSOR.git">Click here </a> <br>
+
