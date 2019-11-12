@@ -8,4 +8,6 @@ for small embedded applications, but has an instruction set architecture more si
 -	The design of control unit 
 
 **For more details about pP** 
-<a href="pP-ISA(1).pdf">click here </a>
+<a href="pP-ISA(1).pdf">Click here </a><br>
+**To see my design details**
+<a href="Single-cyclePicoProcessor.pdf">Click here </a> 
